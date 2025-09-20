@@ -18,5 +18,13 @@ To contribute:
 
 ---
 
+## Contributors -
+<details>
+<summary> 2025 </summary>
+
+- Abhishek Arnav
+- Aryan Tandon
+</details>
+
 Maintained by the **MSES IITD community**.
 
