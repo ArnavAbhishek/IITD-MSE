@@ -23,7 +23,7 @@ The professor there doesnt usually take interns but since I came to him via a re
 ### Tips
 I started mailing very late, beginning in Feb-Mar 2023. I would suggest you must statrt mailing really early if you are aiming for a foreign intern. 
 
-Moral : It is not the easiest of jobs and you do need to spend some time andf effort on finding an intern. Although at IISC it is comparatively easier than a foreign intern. Use the brand name thoroughly it does creates a difference. 
+Moral : It is not the easiest of jobs and you do need to spend some time and effort on finding an intern. Although at IISC it is comparatively easier than a foreign intern. Use the brand name thoroughly it does creates a difference. 
 
 NOTE: Do not miss out on SRFP Programme at IISc. I got to know about it after reaching IISc. SFRP gives stipend for your internship.
 
