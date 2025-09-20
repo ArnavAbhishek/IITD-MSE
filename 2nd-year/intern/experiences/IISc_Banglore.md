@@ -5,7 +5,7 @@ Contributed by Aryan Tandon
 - Professor *Prof. Praveen Kumar*
 
 ### Experience
-The experience was really rewarding for me. I personally am very inclined towards future prospects in materials science and engineering so this internship really unlocked domains of intrest in my mind accelerating my goals. My thesis report was titled ###"Development of UV-DIC Technique for Capturing Deformations during Rapid Heating and Extreme Thermal Conditions"### whcih involved me working and learning in lab for 6 days a week for 2 months. 
+The experience was really rewarding for me. I personally am very inclined towards future prospects in materials science and engineering so this internship really unlocked domains of intrest in my mind accelerating my goals. My thesis report was titled **"Development of UV-DIC Technique for Capturing Deformations during Rapid Heating and Extreme Thermal Conditions"** whcih involved me working and learning in lab for 6 days a week for 2 months. 
 
 My work started off with literature review of concepts and practices associated with Digital Image Correlation(DIC) followed by some practice on experimental data using Vic-2D DIC software. The latter half was devoted to two experiments:
 - Delamination of TBC coating on Haynes Ni alloy due to rapid thermal cycling with 2kW laser source. Aim to determine strain field at interface during delamination
