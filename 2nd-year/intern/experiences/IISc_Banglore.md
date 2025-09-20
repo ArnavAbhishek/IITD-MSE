@@ -2,10 +2,10 @@ Contributed by Aryan Tandon
 
 - Research Intern @ *IISc, Bangalore, Centre of Excellence in High Temperature Materials Research(CoE-HTMR)*
 - Topic *Strain field dtermination using UV-DIC at ultra-high temperatures*
-- Professor *Prof. Praveen Kumar*
+- Professor **Prof. Praveen Kumar**
 
 ### Experience
-The experience was really rewarding for me. I personally am very inclined towards future prospects in materials science and engineering so this internship really unlocked domains of intrest in my mind accelerating my goals. My thesis report was titled ###"Development of UV-DIC Technique for Capturing Deformations during Rapid Heating and Extreme Thermal Conditions"### whcih involved me working and learning in lab for 6 days a week for 2 months. 
+The experience was really rewarding for me. I personally am very inclined towards future prospects in materials science and engineering so this internship really unlocked domains of intrest in my mind accelerating my goals. My thesis report was titled **"Development of UV-DIC Technique for Capturing Deformations during Rapid Heating and Extreme Thermal Conditions"** whcih involved me working and learning in lab for 6 days a week for 2 months. 
 
 My work started off with literature review of concepts and practices associated with Digital Image Correlation(DIC) followed by some practice on experimental data using Vic-2D DIC software. The latter half was devoted to two experiments:
 - Delamination of TBC coating on Haynes Ni alloy due to rapid thermal cycling with 2kW laser source. Aim to determine strain field at interface during delamination
@@ -17,12 +17,15 @@ I additionally completed two side-quests in these two months: One being a visit 
 Being from Bangalore itself, accomodation was never an issue as I was commuting daily from home in packed BMTC buses. IISc Campus is really green (like really) and huge. The first step on campus will totally give out research and knowledge vibes and the main building just leaks too much aura.
 
 ### How did you get your intern ?
-IISc's departmental websites to search for professors and their About page/ Bio to get the research topic for intern :)
+Well I actually approached Prof Lakshmi Narayanan in our dept here since his field of mechanical behviour of materials resonated with my interests. I asked him about contacts at IISc where he can sort of provide a referral for a research intern. Hence upon his recommendation i approahed Prof. Praveen Kuamr at IISc thorugh iitd webmail for an internship.
+The professor there doesnt usually take interns but since I came to him via a referral and obviosuly the brand name of IITD , he allowed me to work in his lab. Although yes there was no stipend nor accomodation but it didnt matter to me much.
 
 ### Tips
-I started mailing very late, beginning in April end 2023 (just before 4th semester Majors). Also, I lacked a passport at that point, so I reached out exclusively to professors at IISc. Initially, I wanted to secure an internship in  probability or cryptography; however, I didn't got any reply. Then, I expanded my search to professors woking in machine learning. Interestingly, I reached out to just two professors, and remarkably, both of them extended offers for the internship.
+I started mailing very late, beginning in Feb-Mar 2023. I would suggest you must statrt mailing really early if you are aiming for a foreign intern. 
 
-Moral : It is easiest to get an intern in ML domain because most professors in circuital domain are working on it. 
+Moral : It is not the easiest of jobs and you do need to spend some time and effort on finding an intern. Although at IISC it is comparatively easier than a foreign intern. Use the brand name thoroughly it does creates a difference. 
+
+NOTE: Do not miss out on SRFP Programme at IISc. I got to know about it after reaching IISc. SFRP gives stipend for your internship.
 
 Also try to apply early so that you have the time left to discuss the accomodation and expenses involved.
 
