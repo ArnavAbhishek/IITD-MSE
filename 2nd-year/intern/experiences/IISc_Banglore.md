@@ -2,7 +2,7 @@ Contributed by Aryan Tandon
 
 - Research Intern @ *IISc, Bangalore, Centre of Excellence in High Temperature Materials Research(CoE-HTMR)*
 - Topic *Strain field dtermination using UV-DIC at ultra-high temperatures*
-- Professor *Prof. Praveen Kumar*
+- Professor **Prof. Praveen Kumar**
 
 ### Experience
 The experience was really rewarding for me. I personally am very inclined towards future prospects in materials science and engineering so this internship really unlocked domains of intrest in my mind accelerating my goals. My thesis report was titled **"Development of UV-DIC Technique for Capturing Deformations during Rapid Heating and Extreme Thermal Conditions"** whcih involved me working and learning in lab for 6 days a week for 2 months. 
