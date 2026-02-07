@@ -13,7 +13,7 @@ The objective is to make this repo a **one-stop destination** for all years (1st
 Contributions are always welcome.
 To contribute:
 1. Read [`CONTRIBUTING.md`](./CONTRIBUTING.md) for guidelines.
-2. Add your course notes / experiences in the relevant folder.
+2. Add your course notes/experiences in the relevant folder.
 3. Open a Pull Request (PR).
 
 ---
